@@ -1,0 +1,21 @@
+{
+  "name": "lab_practical_exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CODExDELTA-45/Lab_Practical_Exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CODExDELTA-45/Lab_Practical_Exam/issues"
+  },
+  "homepage": "https://github.com/CODExDELTA-45/Lab_Practical_Exam#readme"
+}
